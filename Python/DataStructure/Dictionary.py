@@ -21,9 +21,20 @@ for key, value in point.items():
     print(key, value)
 
 
-
 # Dictionary Comprehensions
 
 print("============== Dict Comprehensions ===========================")
 
-# Syntax: [expression: ]
+# Syntax: [expression:  for item in items]
+
+
+# Generates a Dictionary with key value pair
+values = {x: x*2 for x in range(5)}
+
+
+print("Values", values)
+
+items = (x*2 for x in range(5))  # Generates Generator Object
+
+
+print("Items", items)
