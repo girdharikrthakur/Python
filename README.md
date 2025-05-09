@@ -1,10 +1,4 @@
-Thanks for the clarification! Here's a sample `README.md` for your GitHub repository [`girdharikrthakur/Python`](https://github.com/girdharikrthakur/Python.git). This README assumes it's a learning or practice repository containing various Python scripts:
 
----
-
-### 📘 `README.md` for Python Repository
-
-````markdown
 # Python Practice Repository 🐍
 
 Welcome to my Python repository! This collection of Python scripts is a part of my learning journey and contains examples, practice exercises, and mini-projects demonstrating core Python concepts.
